@@ -1,0 +1,9 @@
+"successione finita di operazioni elementari non ambigue che permettono di passare da un insieme di dati iniziali a dei risultati"
+
+5 proprietà:
+-Finitezza
+-Effettività
+-Non ambigua
+-Realizzabilità
+-Atomicità
+
